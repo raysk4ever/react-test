@@ -1,0 +1,9 @@
+...Components
+1 - Functioncal Based
+2 - Class Based
+
+
+...Component
+
+State 
+Props
